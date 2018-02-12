@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireTest</string>
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Sad</item>
+        <item>Romantic</item>
+    </array>
+</resources>
